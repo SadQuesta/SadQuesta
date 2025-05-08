@@ -56,7 +56,7 @@ Check out my full project list 👉 [github.com/SadQuesta](https://github.com/Sa
 ## 📫 How to Reach Me
 
 - 📧 Email: mustafanafiugur@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/MustafaNafiUğur](www.linkedin.com/in/mustafaugur-56913b223)  
+- 💼 LinkedIn: (www.linkedin.com/in/mustafaugur-56913b223)  
 - 🌐 Portfolio site: (coming soon...)
 
 ---
