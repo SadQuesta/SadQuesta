@@ -16,7 +16,7 @@ My background combines:
 Currently building:
 - 🧾 A smart **Text Summarizer App** using OpenAI & LM Studio
 - 🎙️ A multilingual **Voice Summarizer** with diarization and translation
-- 🧠 An AI assistant project: **Sentinal**, my vision for a decision-making, self-learning system
+
 
 ---
 
