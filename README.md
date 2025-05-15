@@ -1,6 +1,5 @@
 # 👋 Hey! I'm Mustafa Nafi Uğur (aka SadQuesta)
 
-🎓 Aspiring Data Scientist | AI Enthusiast | MSc Candidate in Data Science (London - 2025)
 
 ---
 
